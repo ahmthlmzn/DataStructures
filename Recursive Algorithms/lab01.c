@@ -120,7 +120,7 @@ int xCounter(int r, int c, int i, int j)  // İstenilen hesaplamaları yapan recur
 	else
 	{
 		A[i][j] = ' ';
-		a =  a + i, b = b + j;
+		a = a + i, b = b + j;
 		return (1 + xCounter(r, c, i, j + 1) +
 			xCounter(r, c, i + 1, j) +
 			xCounter(r, c, i - 1, j) +
