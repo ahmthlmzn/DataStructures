@@ -6,8 +6,3 @@
 ![enter image description here](https://i.hizliresim.com/vkElPV.jpg)
 # OUTPUT
 ![enter image description here](https://i.hizliresim.com/imCSi4.png)
-
-
-
-
-
